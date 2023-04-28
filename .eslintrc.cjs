@@ -12,5 +12,6 @@ module.exports = {
   rules: {
     "react/prop-types": 0,
     'react-refresh/only-export-components': 'warn',
+    "react/jsx-key": false
   },
 }
